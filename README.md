@@ -1,2 +1,2 @@
-# Alexa-Rise-Portfolio
-https://irene-lab80.github.io/Alexa-Rise-Portfolio/
+# photographers-portfolio
+deploy: https://irene-lab80.github.io/photographers-portfolio/
